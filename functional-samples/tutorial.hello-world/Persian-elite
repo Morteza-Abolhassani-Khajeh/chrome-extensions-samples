@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Hello persian-elite",
+  "description": "Base Level persian-elite",
+  "version": "1.0",
+  "action": {
+    "default_popup": "persian-elite.html",
+    "default_icon": "hello_persian-elite.png"
+  }
+}
